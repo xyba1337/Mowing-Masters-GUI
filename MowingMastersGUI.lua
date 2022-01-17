@@ -1,5 +1,3 @@
---BROUGHT TO YOU BY RSCRIPTS.NET--
-
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua')))()
 
 local w = library:CreateWindow("Mowing Masters GUI") -- Creates the window
